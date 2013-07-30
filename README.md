@@ -1,4 +1,4 @@
 mvn-repo
 ========
 
-Maven 2 Repository for all Parallel AIprojects
+Maven 2 Repository for all Parallel AI projects
